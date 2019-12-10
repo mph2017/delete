@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>egglant on Maiche Jewan</title>
+    <link>/categories/egglant/</link>
+    <description>Recent content in egglant on Maiche Jewan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Oct 2016 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="/categories/egglant/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eggplant (brinjal) bartha</title>
+      <link>/post/brinjal-bartha-2/</link>
+      <pubDate>Tue, 11 Oct 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/post/brinjal-bartha-2/</guid>
+      <description>&lt;p&gt;Eggplant (brinjal) bartha&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
