@@ -9,10 +9,10 @@ categories = [ "curry", "non-veg", "fish"]
 weight = 1
 +++
 
-
+Fish with Eggplant
 <!--more-->
 
-## Ingredients:
+## Ingredients:s
 
 
 **For the Fish**
