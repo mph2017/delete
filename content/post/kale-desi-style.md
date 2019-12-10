@@ -2,7 +2,7 @@
 date = "2017-01-27T19:41:01+05:30"
 title = " Kale Desi Style"
 draft = false
-image = "img/portfolio/logs1.jpg"
+image = "img/portfolio/kale.jpg"
 showonlyimage = false
 categories = [ "sides", "veg"] 
 weight = 33

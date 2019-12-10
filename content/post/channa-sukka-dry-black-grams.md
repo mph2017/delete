@@ -4,7 +4,7 @@ title = "Channa sukka (dry black grams)"
 draft = false
 image = "img/portfolio/Channa-sukka.jpg"
 showonlyimage = false
-categories = [ "chana","veg"]
+categories = ["Novem","chana","veg"]
 weight = 12
 +++
 

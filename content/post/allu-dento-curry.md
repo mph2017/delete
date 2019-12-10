@@ -4,7 +4,7 @@ title = "Allu Dento (Colocasia) curry"
 draft = false
 image = "img/portfolio/Alloo-dento.jpg"
 showonlyimage = false
-categories = [ "curry", "veg"] 
+categories = [ "Novem","curry", "veg"] 
 weight = 44
 +++
 

@@ -2,7 +2,7 @@
 date = "2017-01-27T19:41:01+05:30"
 title = "French beans tel piyao"
 draft = false
-image = "img/portfolio/logs1.jpg"
+image = "img/portfolio/Frenchbeans_telpiyao.jpg"
 showonlyimage = false
 categories = [ "veg", "novem"] 
 weight = 15

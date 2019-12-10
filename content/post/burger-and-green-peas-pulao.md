@@ -2,9 +2,9 @@
 date = "2017-05-01T19:41:01+05:30"
 title = "Burger and green peas pulao"
 draft = false
-image = "img/portfolio/logs1.jpg"
+image = "img/portfolio/burger-peaspulao.jpg"
 showonlyimage = false
-categories = [ "burger","rice","pulao","mains"]
+categories = [ "rice","mains"]
 weight = 22
 +++
 

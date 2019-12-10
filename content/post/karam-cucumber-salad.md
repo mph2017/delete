@@ -4,7 +4,7 @@ title = "Karam (Cucumber salad)"
 draft = false
 image = "img/portfolio/KaramCombo.jpg"
 showonlyimage = false
-categories = [ "salad", "veg"] 
+categories = [ "Novem","salad", "veg"] 
 weight = 8
 +++
 

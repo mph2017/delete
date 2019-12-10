@@ -5,7 +5,7 @@ title = "kharakaddi"
 draft = false
 image = "img/portfolio/kharakaddi.jpg"
 showonlyimage = false
-categories = [ "snacks", "veg"] 
+categories = ["Christmas","snacks", "veg"] 
 weight = 3
 +++
 

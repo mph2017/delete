@@ -4,7 +4,7 @@ title = "Crab masala"
 draft = false
 image = "img/portfolio/Crabmasala.jpg"
 showonlyimage = false
-categories = [ "crab", "non-veg","sea-food"] 
+categories = [ "non-veg","sea-food"] 
 weight = 66
 +++
 

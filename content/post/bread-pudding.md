@@ -4,7 +4,7 @@ title = "Bread Pudding"
 draft = false
 image = "img/portfolio/BreadPudding.jpg"
 showonlyimage = false
-categories = [ "bread", "dessert","sweet"] 
+categories = ["dessert","sweet"] 
 weight = 26
 +++
 

@@ -3,7 +3,7 @@
 date = "2017-01-31T19:41:01+05:30"
 title = "Chicken Sukka (Dry)"
 draft = false
-image = "img/portfolio/logs1.jpg"
+image = "img/portfolio/chicken_sukka.jpg"
 showonlyimage = false
 categories = [ "chicken", "non-veg"] 
 weight = 28

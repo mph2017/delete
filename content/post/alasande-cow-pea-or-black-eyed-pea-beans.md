@@ -4,7 +4,7 @@ title = "alasande-cow-pea"
 draft = false
 image = "img/portfolio/alasande.jpg"
 showonlyimage = false
-categories = [ "veg"]
+categories = ["Novem", "veg"]
 weight = 10
 +++
 

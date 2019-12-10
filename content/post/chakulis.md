@@ -3,9 +3,9 @@
 date = "2019-11-13T19:41:01+05:30"
 title = "chakulis"
 draft = false
-image = "img/portfolio/chakulis.jpg"
+image = "img/portfolio/Chakuli.jpg"
 showonlyimage = false
-categories = [ "snacks", "veg"] 
+categories = ["Christmas","snacks", "veg"] 
 weight = 4
 +++
 

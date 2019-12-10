@@ -1,11 +1,11 @@
-
+  
 +++
 date = "2019-11-12T19:41:01+05:30"
 title = "Kulkuls (Kedios)"
 draft = false
 image = "img/portfolio/kulkul.jpg"
 showonlyimage = false
-categories = [ "snacks", "veg"] 
+categories = [ "Christmas", "snacks", "veg"] 
 weight = 1
 +++
 

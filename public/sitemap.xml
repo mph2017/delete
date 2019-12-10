@@ -123,11 +123,6 @@
   </url>
   
   <url>
-    <loc>/post/bhenda-okra/</loc>
-    <lastmod>2017-09-06T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/fish-cutlets/</loc>
     <lastmod>2017-08-29T19:41:01+05:30</lastmod>
   </url>
@@ -283,6 +278,11 @@
   </url>
   
   <url>
+    <loc>/categories/christmas/</loc>
+    <lastmod>2019-11-13T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2019-11-13T19:41:01+05:30</lastmod>
   </url>
@@ -318,11 +318,6 @@
   </url>
   
   <url>
-    <loc>/categories/mince/</loc>
-    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/non-veg/</loc>
     <lastmod>2019-11-12T19:41:01+05:30</lastmod>
   </url>
@@ -353,17 +348,12 @@
   </url>
   
   <url>
-    <loc>/categories/chana/</loc>
-    <lastmod>2017-09-07T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/crab/</loc>
-    <lastmod>2017-09-07T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/novem/</loc>
+    <lastmod>2017-09-08T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/chana/</loc>
     <lastmod>2017-09-07T19:41:01+05:30</lastmod>
   </url>
   
@@ -378,11 +368,6 @@
   </url>
   
   <url>
-    <loc>/categories/okra/</loc>
-    <lastmod>2017-09-06T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/dessert/</loc>
     <lastmod>2017-07-07T19:41:01+05:30</lastmod>
   </url>
@@ -393,17 +378,7 @@
   </url>
   
   <url>
-    <loc>/categories/kheer/</loc>
-    <lastmod>2017-07-01T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/burger/</loc>
-    <lastmod>2017-05-01T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/pulao/</loc>
     <lastmod>2017-05-01T19:41:01+05:30</lastmod>
   </url>
   
@@ -413,18 +388,8 @@
   </url>
   
   <url>
-    <loc>/categories/bread/</loc>
-    <lastmod>2017-02-18T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/prawn/</loc>
     <lastmod>2017-02-18T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/bake/</loc>
-    <lastmod>2017-02-17T19:41:01+05:30</lastmod>
   </url>
   
   <url>
@@ -458,11 +423,6 @@
   </url>
   
   <url>
-    <loc>/categories/bacon/</loc>
-    <lastmod>2016-10-15T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/breakfast/</loc>
     <lastmod>2016-10-15T19:41:01+05:30</lastmod>
   </url>
@@ -473,22 +433,7 @@
   </url>
   
   <url>
-    <loc>/categories/brinjal/</loc>
-    <lastmod>2016-10-11T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/egglant/</loc>
-    <lastmod>2016-10-11T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/lamb/</loc>
-    <lastmod>2016-10-10T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/liver/</loc>
     <lastmod>2016-10-10T19:41:01+05:30</lastmod>
   </url>
   

@@ -2,7 +2,7 @@
 date = "2016-08-08T19:41:01+05:30"
 title = "Kori roti (Chicken curry)"
 draft = false
-image = "img/portfolio/logs1.jpg"
+image = "img/portfolio/Kori_roti.jpg"
 showonlyimage = false
 categories = [ "chicken","mains", "non-veg"] 
 weight = 42

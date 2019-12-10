@@ -4,7 +4,7 @@ title = "Semolina (Rava) Kheer"
 draft = false
 image = "img/portfolio/Semolina-Kheer.jpg"
 showonlyimage = false
-categories = [ "kheer","sweet", "dessert"] 
+categories = ["sweet", "dessert"] 
 weight = 20
 +++
 

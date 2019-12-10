@@ -2,9 +2,9 @@
 date = "2016-10-10T19:41:01+05:30"
 title = "Maiche kaleez kodi (liver curry)"
 draft = false
-image = "img/portfolio/logs1.jpg"
+image = "img/portfolio/livercurry.jpg"
 showonlyimage = false
-categories = [ "lamb","liver", "mains", "non-veg"] 
+categories = [ "lamb", "mains", "non-veg"] 
 weight = 37
 +++
 

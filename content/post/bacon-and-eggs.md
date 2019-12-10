@@ -4,7 +4,7 @@ title = "Bacon and eggs... with a twist!"
 draft = false
 image = "img/portfolio/Bacon-Eggs.jpg"
 showonlyimage = false
-categories = [ "Bacon","egg","breakfast"] 
+categories = ["egg","breakfast"] 
 weight = 39
 +++
 

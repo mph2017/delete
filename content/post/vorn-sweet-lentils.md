@@ -4,7 +4,7 @@ title = "Vorn"
 draft = false
 image = "img/portfolio/vorn.jpg"
 showonlyimage = false
-categories = [ "sweet", "dessert"] 
+categories = ["Novem", "sweet", "dessert"] 
 weight = 14
 +++
 

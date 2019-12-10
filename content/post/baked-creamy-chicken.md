@@ -4,7 +4,7 @@ title = "Baked Creamy Chicken"
 draft = false
 image = "img/portfolio/logs1.jpg"
 showonlyimage = false
-categories = [ "chicken","bake"] 
+categories = [ "chicken"] 
 weight = 41
 +++
 

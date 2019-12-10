@@ -5,7 +5,7 @@ title = "Shankerpali (thukdio)"
 draft = false
 image = "img/portfolio/shankarpali.jpg"
 showonlyimage = false
-categories = [ "snacks", "veg"] 
+categories = ["Christmas", "snacks", "veg"] 
 weight = 4
 +++
 

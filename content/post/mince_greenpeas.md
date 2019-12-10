@@ -5,7 +5,7 @@ title = "Minced Green Peas"
 draft = false
 image = "img/portfolio/mince_greenpeas.jpg"
 showonlyimage = false
-categories = [ "mince", "non-veg"] 
+categories = ["non-veg"] 
 weight = 7
 +++
 

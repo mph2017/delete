@@ -4,7 +4,7 @@ title = "Eggplant (brinjal) bartha"
 draft = false
 image = "img/portfolio/logs1.jpg"
 showonlyimage = false
-categories = [ "egglant", "brinjal","veg"] 
+categories = [ "veg"] 
 weight = 40
 +++
 

@@ -2,7 +2,7 @@
 date = "2017-01-27T19:41:01+05:30"
 title = "Beef Roast"
 draft = false
-image = "img/portfolio/logs1.jpg"
+image = "img/portfolio/beefroast.jpg"
 showonlyimage = false
 categories = [ "beef","roast", "non-veg"] 
 weight = 35
