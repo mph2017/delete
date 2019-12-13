@@ -2,12 +2,13 @@
 date = "2017-01-27T19:41:01+05:30"
 title = "Kheer"
 draft = false
-image = "img/portfolio/logs1.jpg"
+image = "img/portfolio/Kheer.jpg"
 showonlyimage = false
 categories = [ "dessert","dairy", "sweet"] 
 weight = 29
 +++
 
+Kheer
 
 <!--more-->
 ## Ingredients :

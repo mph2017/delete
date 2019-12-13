@@ -58,6 +58,11 @@
   </url>
   
   <url>
+    <loc>/post/dukra_mass/</loc>
+    <lastmod>2019-12-12T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/bhendimasala/</loc>
     <lastmod>2019-11-12T19:41:01+05:30</lastmod>
   </url>
@@ -90,6 +95,11 @@
   <url>
     <loc>/post/tendli-ivy-gourd-mix/</loc>
     <lastmod>2017-07-07T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/chuda/</loc>
+    <lastmod>2019-12-11T19:41:01+05:30</lastmod>
   </url>
   
   <url>
@@ -274,31 +284,36 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2019-11-13T19:41:01+05:30</lastmod>
+    <lastmod>2019-12-12T19:41:01+05:30</lastmod>
   </url>
   
   <url>
     <loc>/categories/christmas/</loc>
-    <lastmod>2019-11-13T19:41:01+05:30</lastmod>
+    <lastmod>2019-12-12T19:41:01+05:30</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-11-13T19:41:01+05:30</lastmod>
+    <lastmod>2019-12-12T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/non-veg/</loc>
+    <lastmod>2019-12-12T19:41:01+05:30</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-11-13T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/snacks/</loc>
-    <lastmod>2019-11-13T19:41:01+05:30</lastmod>
+    <lastmod>2019-12-12T19:41:01+05:30</lastmod>
   </url>
   
   <url>
     <loc>/categories/veg/</loc>
+    <lastmod>2019-12-11T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/snacks/</loc>
     <lastmod>2019-11-13T19:41:01+05:30</lastmod>
   </url>
   
@@ -314,11 +329,6 @@
   
   <url>
     <loc>/categories/fish/</loc>
-    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/non-veg/</loc>
     <lastmod>2019-11-12T19:41:01+05:30</lastmod>
   </url>
   

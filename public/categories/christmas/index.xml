@@ -6,7 +6,7 @@
     <description>Recent content in Christmas on Maiche Jewan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Nov 2019 19:41:01 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2019 19:41:01 +0530</lastBuildDate>
     
 	<atom:link href="/categories/christmas/index.xml" rel="self" type="application/rss+xml" />
     
@@ -45,6 +45,33 @@
       
       <guid>/post/shankarpali/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Dukra Mass</title>
+      <link>/post/dukra_mass/</link>
+      <pubDate>Thu, 12 Dec 2019 19:41:01 +0530</pubDate>
+      
+      <guid>/post/dukra_mass/</guid>
+      <description>&lt;p&gt;Dukra maas&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chuda</title>
+      <link>/post/chuda/</link>
+      <pubDate>Wed, 11 Dec 2019 19:41:01 +0530</pubDate>
+      
+      <guid>/post/chuda/</guid>
+      <description>&lt;p&gt;Chuda&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Kori roti (Chicken curry)</title>
+      <link>/post/kori-roti/</link>
+      <pubDate>Mon, 08 Aug 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/post/kori-roti/</guid>
+      <description>&lt;p&gt;Kori Roti&lt;/p&gt;</description>
     </item>
     
   </channel>

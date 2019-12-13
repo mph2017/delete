@@ -2,13 +2,13 @@
 date = "2016-08-08T19:41:01+05:30"
 title = "Kori roti (Chicken curry)"
 draft = false
-image = "img/portfolio/Kori_roti.jpg"
+image = "img/portfolio/kori.jpg"
 showonlyimage = false
-categories = [ "chicken","mains", "non-veg"] 
+categories = ["Christmas", "chicken","mains", "non-veg"] 
 weight = 42
 +++
 
-
+Kori Roti
 <!--more-->
 
 ## Ingredients:

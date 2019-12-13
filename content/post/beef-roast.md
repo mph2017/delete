@@ -9,13 +9,13 @@ weight = 35
 +++
 
 
-Traditional Beef Roast
+Traditional Beef/Pork
 <!--more-->
 
 
 ##### Ingredients:
 
-  - 1 kg beef tenderloin
+  - 1kg beef tenderloin / pork (fatless and boneless chunks)
   - 4 onions, large, cut in thick rings
   - 2 potatoes, large, cut in thick rings
   - 4 green chillies
