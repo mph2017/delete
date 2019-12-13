@@ -1,11 +1,11 @@
 
 +++
 date = "2019-12-12T19:41:01+05:30"
-title = "Dukra Mass"
+title = "Dukra Mass(Pork Bafat)"
 draft = false
 image = "img/portfolio/pork-bafat.jpg"
 showonlyimage = false
-categories = [ "Christmas", "non-veg"] 
+categories = [ "non-veg", "pork"] 
 weight = 5
 +++
 
@@ -15,7 +15,7 @@ Dukra maas
 
 ## Ingredients
 
-####Pork Bafat (Dukra maas)
+#### Pork Bafat (Dukra maas)
 
 
 * 1kg, pork cubes, with fat and bones

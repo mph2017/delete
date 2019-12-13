@@ -288,11 +288,6 @@
   </url>
   
   <url>
-    <loc>/categories/christmas/</loc>
-    <lastmod>2019-12-12T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/</loc>
     <lastmod>2019-12-12T19:41:01+05:30</lastmod>
   </url>
@@ -303,8 +298,18 @@
   </url>
   
   <url>
+    <loc>/categories/pork/</loc>
+    <lastmod>2019-12-12T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
     <lastmod>2019-12-12T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/christmas/</loc>
+    <lastmod>2019-12-11T19:41:01+05:30</lastmod>
   </url>
   
   <url>
@@ -329,11 +334,6 @@
   
   <url>
     <loc>/categories/fish/</loc>
-    <lastmod>2019-11-12T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/pork/</loc>
     <lastmod>2019-11-12T19:41:01+05:30</lastmod>
   </url>
   

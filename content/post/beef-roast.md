@@ -1,6 +1,6 @@
 +++
 date = "2017-01-27T19:41:01+05:30"
-title = "Beef Roast"
+title = "Beef/Pork Roast"
 draft = false
 image = "img/portfolio/beefroast.jpg"
 showonlyimage = false
@@ -9,7 +9,7 @@ weight = 35
 +++
 
 
-Traditional Beef/Pork
+Traditional Beef/Pork Roast
 <!--more-->
 
 

@@ -4,7 +4,7 @@ title = "Kori roti (Chicken curry)"
 draft = false
 image = "img/portfolio/kori.jpg"
 showonlyimage = false
-categories = ["Christmas", "chicken","mains", "non-veg"] 
+categories = ["chicken","mains", "non-veg"] 
 weight = 42
 +++
 

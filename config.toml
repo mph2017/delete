@@ -48,11 +48,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   url = "contact/"
 
   [params.social]
-  facebook      = "facebook.com/maichejewan"
+  facebook      = "https://www.facebook.com/maiche.jewan"
   #googleplus    = "full profile url in googleplus"
   email         = "maichejewan@gmail.com"
   #twitter       = "full profile url in twitter"
   #linkedin      = "full profile url in linkedin"
  #stackoverflow = "full profile url in stackoverflow"
-  instagram     = "instagram.com/maichejewan"
+  instagram     = "https://www.instagram.com/maichejewan/"
   #github        = "full profile url in github"

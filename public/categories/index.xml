@@ -12,20 +12,29 @@
     
     
     <item>
-      <title>Christmas</title>
-      <link>/categories/christmas/</link>
-      <pubDate>Thu, 12 Dec 2019 19:41:01 +0530</pubDate>
-      
-      <guid>/categories/christmas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>non-veg</title>
       <link>/categories/non-veg/</link>
       <pubDate>Thu, 12 Dec 2019 19:41:01 +0530</pubDate>
       
       <guid>/categories/non-veg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pork</title>
+      <link>/categories/pork/</link>
+      <pubDate>Thu, 12 Dec 2019 19:41:01 +0530</pubDate>
+      
+      <guid>/categories/pork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christmas</title>
+      <link>/categories/christmas/</link>
+      <pubDate>Wed, 11 Dec 2019 19:41:01 +0530</pubDate>
+      
+      <guid>/categories/christmas/</guid>
       <description></description>
     </item>
     
@@ -71,15 +80,6 @@
       <pubDate>Tue, 12 Nov 2019 19:41:01 +0530</pubDate>
       
       <guid>/categories/fish/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pork</title>
-      <link>/categories/pork/</link>
-      <pubDate>Tue, 12 Nov 2019 19:41:01 +0530</pubDate>
-      
-      <guid>/categories/pork/</guid>
       <description></description>
     </item>
     
