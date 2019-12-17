@@ -12,7 +12,7 @@ weight = 1
 Fish with Eggplant
 <!--more-->
 
-## Ingredients:s
+## Ingredients
 
 
 **For the Fish**

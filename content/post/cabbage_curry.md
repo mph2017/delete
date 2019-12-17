@@ -5,7 +5,7 @@ title = "cabbage_curry"
 draft = false
 image = "img/portfolio/cabbage_curry.jpg"
 showonlyimage = false
-categories = [ "curry", "non-veg"] 
+categories = [ "curry", "veg"] 
 weight = 3
 +++
 
